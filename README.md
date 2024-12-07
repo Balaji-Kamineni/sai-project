@@ -29,7 +29,7 @@ This project requires Python 3.8 or higher and the following Python packages:
 git clone https://github.com/AzariushHussain/ThinkClock-Innovation-Labs---internship.git
 
 # Navigate inside the folder
-cd battery-aging-analysis
+cd folder_name
 
 # Create a virtual environment
 py -m venv _name_of_virtual_environment_ (Windows)
