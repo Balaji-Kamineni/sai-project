@@ -5,7 +5,7 @@ This project uses the NASA Battery Dataset to analyze and visualize the changes 
 ## Features
 
 - Interactive plots showing how battery parameters change over time.
-- Parameters analyzed:
+- Parameters analyzed :
   - **Battery Impedance**
   - **Re (Electrolyte Resistance)**
   - **Rct (Charge Transfer Resistance)**
